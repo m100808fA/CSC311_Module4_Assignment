@@ -1,6 +1,6 @@
-# Card24Game
+# Card 24 Game
 
-Card24Game is a JavaFX desktop game where the player uses four drawn card values and arithmetic operations to form an expression that evaluates to 24.
+Card 24 Game is a JavaFX desktop game where the player uses four drawn card values and arithmetic operations to form an expression that evaluates to 24.
 
 ## Game Rules
 
@@ -59,9 +59,3 @@ src/
     java/com/example/card24/logic/
       Game24LogicTest.java
 ```
-
-## Screenshot
-
-Add a screenshot of the running game UI here.
-
-`![Card24Game Screenshot](docs/screenshot-placeholder.png)`
